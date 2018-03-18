@@ -1,0 +1,2 @@
+knime://LOCAL/wine.csv
+knime://knime.workflow/data.all
