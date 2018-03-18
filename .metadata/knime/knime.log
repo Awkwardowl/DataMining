@@ -19436,3 +19436,132 @@ java.lang.NullPointerException
 2018-03-18 19:33:08,402 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
 2018-03-18 19:33:08,411 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
 2018-03-18 19:33:22,256 : DEBUG : main : WorkflowEditor :  :  : Saving workflow Task-2 3
+2018-03-18 19:51:36,483 : DEBUG : KNIME-Node-Usage-Writer : NodeTimer$GlobalNodeStats :  :  : Successfully wrote node usage stats to file: C:\Users\Finley\knime-workspace\.metadata\knime\nodeusage_3.0.json
+2018-03-18 19:51:37,506 : DEBUG : KNIME-Node-Usage-Sender : NodeTimer$GlobalNodeStats :  :  : Successfully sent node usage stats to server
+2018-03-18 19:51:38,450 : DEBUG : main : WorkflowRootEditPart :  :  : WorkflowRootEditPart deactivated
+2018-03-18 19:51:38,459 : DEBUG : main : WorkflowEditor :  :  : Disposing editor...
+2018-03-18 19:51:38,466 : DEBUG : main : ProjectWorkflowMap :  :  : unregistering org.knime.workbench.editor2.WorkflowEditor@679cfe3f from file:/C:/Users/Finley/knime-workspace/Task-1.2/. 0 left.
+2018-03-18 19:51:38,474 : DEBUG : main : ProjectWorkflowMap : Task-1.2 : 0 : Removing "file:/C:/Users/Finley/knime-workspace/Task-1.2/" from project map (2 remaining)
+2018-03-18 19:51:38,482 : DEBUG : main : WorkflowManager : Task-1.2 : 0 : Removing project "Task-1.2 0"
+2018-03-18 19:51:38,495 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 0:25 : Removing all (0) views from model.
+2018-03-18 19:51:38,504 : DEBUG : main : Node : Scatter Plot (JavaScript) : 0:25 : clean output ports.
+2018-03-18 19:51:38,518 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 0:22 : Removing all (0) views from model.
+2018-03-18 19:51:38,524 : DEBUG : main : Node : Scatter Plot (JavaScript) : 0:22 : clean output ports.
+2018-03-18 19:51:38,531 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 0:20 : Removing all (0) views from model.
+2018-03-18 19:51:38,539 : DEBUG : main : Node : Scatter Plot (JavaScript) : 0:20 : clean output ports.
+2018-03-18 19:51:38,545 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 0:4 : Removing all (0) views from model.
+2018-03-18 19:51:38,552 : DEBUG : main : Node : Scatter Plot (JavaScript) : 0:4 : clean output ports.
+2018-03-18 19:51:38,558 : DEBUG : main : RowFilterNodeModel : Row Filter : 0:24 : Removing all (0) views from model.
+2018-03-18 19:51:38,564 : DEBUG : main : Node : Row Filter : 0:24 : clean output ports.
+2018-03-18 19:51:38,572 : DEBUG : main : RowFilterNodeModel : Row Filter : 0:21 : Removing all (0) views from model.
+2018-03-18 19:51:38,578 : DEBUG : main : Node : Row Filter : 0:21 : clean output ports.
+2018-03-18 19:51:38,583 : DEBUG : main : RowFilterNodeModel : Row Filter : 0:18 : Removing all (0) views from model.
+2018-03-18 19:51:38,590 : DEBUG : main : Node : Row Filter : 0:18 : clean output ports.
+2018-03-18 19:51:38,599 : DEBUG : main : ColorManager2NodeModel : Color Manager : 0:36 : Removing all (0) views from model.
+2018-03-18 19:51:38,610 : DEBUG : main : Node : Color Manager : 0:36 : clean output ports.
+2018-03-18 19:51:38,616 : DEBUG : main : ColorManager2NodeModel : Color Manager : 0:35 : Removing all (0) views from model.
+2018-03-18 19:51:38,623 : DEBUG : main : Node : Color Manager : 0:35 : clean output ports.
+2018-03-18 19:51:38,629 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 0:15 : Removing all (0) views from model.
+2018-03-18 19:51:38,635 : DEBUG : main : Node : Scatter Plot (JavaScript) : 0:15 : clean output ports.
+2018-03-18 19:51:38,642 : DEBUG : main : NumberToStringNodeModel : Number To String : 0:37 : Removing all (0) views from model.
+2018-03-18 19:51:38,647 : DEBUG : main : Node : Number To String : 0:37 : clean output ports.
+2018-03-18 19:51:38,652 : DEBUG : main : NumberToStringNodeModel : Number To String : 0:34 : Removing all (0) views from model.
+2018-03-18 19:51:38,657 : DEBUG : main : Node : Number To String : 0:34 : clean output ports.
+2018-03-18 19:51:38,661 : DEBUG : main : ColorManager2NodeModel : Color Manager : 0:14 : Removing all (0) views from model.
+2018-03-18 19:51:38,664 : DEBUG : main : Node : Color Manager : 0:14 : clean output ports.
+2018-03-18 19:51:38,670 : DEBUG : main : ClusterNodeModel : k-Means : 0:10 : Removing all (0) views from model.
+2018-03-18 19:51:38,675 : DEBUG : main : Node : k-Means : 0:10 : clean output ports.
+2018-03-18 19:51:38,678 : DEBUG : main : ClusterNodeModel : k-Means : 0:13 : Removing all (0) views from model.
+2018-03-18 19:51:38,682 : DEBUG : main : Node : k-Means : 0:13 : clean output ports.
+2018-03-18 19:51:38,687 : DEBUG : main : PCANodeModel : PCA : 0:3 : Removing all (0) views from model.
+2018-03-18 19:51:38,690 : DEBUG : main : Node : PCA : 0:3 : clean output ports.
+2018-03-18 19:51:38,693 : DEBUG : main : PCANodeModel : PCA : 0:17 : Removing all (0) views from model.
+2018-03-18 19:51:38,696 : DEBUG : main : Node : PCA : 0:17 : clean output ports.
+2018-03-18 19:51:38,700 : DEBUG : main : Normalizer3NodeModel : Normalizer : 0:27 : Removing all (0) views from model.
+2018-03-18 19:51:38,706 : DEBUG : main : Node : Normalizer : 0:27 : clean output ports.
+2018-03-18 19:51:38,710 : DEBUG : main : FileReaderNodeModel : File Reader : 0:16 : Removing all (0) views from model.
+2018-03-18 19:51:38,713 : DEBUG : main : Node : File Reader : 0:16 : clean output ports.
+2018-03-18 19:51:38,717 : DEBUG : main : WorkflowManager : Task-1.2 : 0 : Project "Task-1.2 0" removed (3 remaining)
+2018-03-18 19:51:38,725 : DEBUG : main : WorkflowRootEditPart :  :  : WorkflowRootEditPart deactivated
+2018-03-18 19:51:38,730 : DEBUG : main : WorkflowEditor :  :  : Disposing editor...
+2018-03-18 19:51:38,735 : DEBUG : main : ProjectWorkflowMap :  :  : unregistering org.knime.workbench.editor2.WorkflowEditor@5d8c79c1 from file:/C:/Users/Finley/knime-workspace/Task-1.1/. 0 left.
+2018-03-18 19:51:38,741 : DEBUG : main : ProjectWorkflowMap : Task-1.1 : 4 : Removing "file:/C:/Users/Finley/knime-workspace/Task-1.1/" from project map (1 remaining)
+2018-03-18 19:51:38,745 : DEBUG : main : WorkflowManager : Task-1.1 : 4 : Removing project "Task-1.1 4"
+2018-03-18 19:51:38,754 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 4:25 : Removing all (0) views from model.
+2018-03-18 19:51:38,759 : DEBUG : main : Node : Scatter Plot (JavaScript) : 4:25 : clean output ports.
+2018-03-18 19:51:38,765 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 4:22 : Removing all (0) views from model.
+2018-03-18 19:51:38,771 : DEBUG : main : Node : Scatter Plot (JavaScript) : 4:22 : clean output ports.
+2018-03-18 19:51:38,776 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 4:20 : Removing all (0) views from model.
+2018-03-18 19:51:38,780 : DEBUG : main : Node : Scatter Plot (JavaScript) : 4:20 : clean output ports.
+2018-03-18 19:51:38,785 : DEBUG : main : RowFilterNodeModel : Row Filter : 4:24 : Removing all (0) views from model.
+2018-03-18 19:51:38,790 : DEBUG : main : Node : Row Filter : 4:24 : clean output ports.
+2018-03-18 19:51:38,794 : DEBUG : main : RowFilterNodeModel : Row Filter : 4:21 : Removing all (0) views from model.
+2018-03-18 19:51:38,798 : DEBUG : main : Node : Row Filter : 4:21 : clean output ports.
+2018-03-18 19:51:38,803 : DEBUG : main : RowFilterNodeModel : Row Filter : 4:18 : Removing all (0) views from model.
+2018-03-18 19:51:38,808 : DEBUG : main : Node : Row Filter : 4:18 : clean output ports.
+2018-03-18 19:51:38,812 : DEBUG : main : ColorManager2NodeModel : Color Manager : 4:33 : Removing all (0) views from model.
+2018-03-18 19:51:38,816 : DEBUG : main : Node : Color Manager : 4:33 : clean output ports.
+2018-03-18 19:51:38,821 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 4:15 : Removing all (0) views from model.
+2018-03-18 19:51:38,825 : DEBUG : main : Node : Scatter Plot (JavaScript) : 4:15 : clean output ports.
+2018-03-18 19:51:38,828 : DEBUG : main : ScatterPlotNodeModel : Scatter Plot (JavaScript) : 4:4 : Removing all (0) views from model.
+2018-03-18 19:51:38,832 : DEBUG : main : Node : Scatter Plot (JavaScript) : 4:4 : clean output ports.
+2018-03-18 19:51:38,837 : DEBUG : main : NumberToStringNodeModel : Number To String : 4:32 : Removing all (0) views from model.
+2018-03-18 19:51:38,842 : DEBUG : main : Node : Number To String : 4:32 : clean output ports.
+2018-03-18 19:51:38,847 : DEBUG : main : ColorManager2NodeModel : Color Manager : 4:14 : Removing all (0) views from model.
+2018-03-18 19:51:38,853 : DEBUG : main : Node : Color Manager : 4:14 : clean output ports.
+2018-03-18 19:51:38,859 : DEBUG : main : ColorManager2NodeModel : Color Manager : 4:6 : Removing all (0) views from model.
+2018-03-18 19:51:38,863 : DEBUG : main : Node : Color Manager : 4:6 : clean output ports.
+2018-03-18 19:51:38,869 : DEBUG : main : ClusterNodeModel : k-Means : 4:13 : Removing all (0) views from model.
+2018-03-18 19:51:38,874 : DEBUG : main : Node : k-Means : 4:13 : clean output ports.
+2018-03-18 19:51:38,879 : DEBUG : main : NumberToStringNodeModel : Number To String : 4:28 : Removing all (0) views from model.
+2018-03-18 19:51:38,883 : DEBUG : main : Node : Number To String : 4:28 : clean output ports.
+2018-03-18 19:51:38,890 : DEBUG : main : PCANodeModel : PCA : 4:17 : Removing all (0) views from model.
+2018-03-18 19:51:38,895 : DEBUG : main : Node : PCA : 4:17 : clean output ports.
+2018-03-18 19:51:38,900 : DEBUG : main : PCANodeModel : PCA : 4:3 : Removing all (0) views from model.
+2018-03-18 19:51:38,906 : DEBUG : main : Node : PCA : 4:3 : clean output ports.
+2018-03-18 19:51:38,911 : DEBUG : main : FileReaderNodeModel : File Reader : 4:2 : Removing all (0) views from model.
+2018-03-18 19:51:38,916 : DEBUG : main : Node : File Reader : 4:2 : clean output ports.
+2018-03-18 19:51:38,923 : DEBUG : main : WorkflowManager : Task-1.1 : 4 : Project "Task-1.1 4" removed (2 remaining)
+2018-03-18 19:51:38,938 : DEBUG : main : WorkflowRootEditPart :  :  : WorkflowRootEditPart deactivated
+2018-03-18 19:51:38,946 : DEBUG : main : WorkflowEditor :  :  : Disposing editor...
+2018-03-18 19:51:38,953 : DEBUG : main : ProjectWorkflowMap :  :  : unregistering org.knime.workbench.editor2.WorkflowEditor@67b42ae0 from file:/C:/Users/Finley/knime-workspace/Task-2/. 0 left.
+2018-03-18 19:51:38,959 : DEBUG : main : ProjectWorkflowMap : Task-2 : 3 : Removing "file:/C:/Users/Finley/knime-workspace/Task-2/" from project map (0 remaining)
+2018-03-18 19:51:38,962 : DEBUG : main : WorkflowManager : Task-2 : 3 : Removing project "Task-2 3"
+2018-03-18 19:51:38,975 : DEBUG : main : WorkflowFileStoreHandlerRepository : Scorer : 3:40 : Removing handler 1236a946-84e7-4de4-b3c5-8e400ab1548b (Scorer 3:40: <no directory>) - 7 remaining
+2018-03-18 19:51:38,993 : DEBUG : main : AccuracyScorerNodeModel : Scorer : 3:40 : Removing all (0) views from model.
+2018-03-18 19:51:38,997 : DEBUG : main : Node : Scorer : 3:40 : clean output ports.
+2018-03-18 19:51:39,015 : DEBUG : main : WorkflowFileStoreHandlerRepository : Scorer : 3:3 : Removing handler 23b0bfb2-3b48-4682-b623-985786bd7eb0 (Scorer 3:3: <no directory>) - 6 remaining
+2018-03-18 19:51:39,022 : DEBUG : main : AccuracyScorerNodeModel : Scorer : 3:3 : Removing all (0) views from model.
+2018-03-18 19:51:39,026 : DEBUG : main : Node : Scorer : 3:3 : clean output ports.
+2018-03-18 19:51:39,030 : DEBUG : main : AggregateOutputNodeModel : X-Aggregator : 3:46 : Removing all (0) views from model.
+2018-03-18 19:51:39,036 : DEBUG : main : Node : X-Aggregator : 3:46 : clean output ports.
+2018-03-18 19:51:39,040 : DEBUG : main : AggregateOutputNodeModel : X-Aggregator : 3:39 : Removing all (0) views from model.
+2018-03-18 19:51:39,044 : DEBUG : main : Node : X-Aggregator : 3:39 : clean output ports.
+2018-03-18 19:51:39,048 : DEBUG : main : GradientBoostingClassificationPredictorNodeModel : Gradient Boosted Trees Predictor : 3:47 : Removing all (0) views from model.
+2018-03-18 19:51:39,054 : DEBUG : main : Node : Gradient Boosted Trees Predictor : 3:47 : clean output ports.
+2018-03-18 19:51:39,059 : DEBUG : main : GradientBoostingClassificationLearnerNodeModel : Gradient Boosted Trees Learner : 3:48 : Removing all (0) views from model.
+2018-03-18 19:51:39,063 : DEBUG : main : Node : Gradient Boosted Trees Learner : 3:48 : clean output ports.
+2018-03-18 19:51:39,069 : DEBUG : main : RandomForestClassificationPredictorNodeModel : Random Forest Predictor : 3:2 : Removing all (0) views from model.
+2018-03-18 19:51:39,075 : DEBUG : main : Node : Random Forest Predictor : 3:2 : clean output ports.
+2018-03-18 19:51:39,081 : DEBUG : main : RandomForestClassificationLearnerNodeModel : Random Forest Learner : 3:1 : Removing all (0) views from model.
+2018-03-18 19:51:39,090 : DEBUG : main : Node : Random Forest Learner : 3:1 : clean output ports.
+2018-03-18 19:51:39,097 : DEBUG : main : WorkflowFileStoreHandlerRepository : X-Partitioner : 3:44 : Removing handler ef1e603a-12d6-4de7-bf5f-de25f6803169 (X-Partitioner 3:44: <no directory>) - 5 remaining
+2018-03-18 19:51:39,106 : DEBUG : main : XValidatePartitionModel : X-Partitioner : 3:44 : Removing all (0) views from model.
+2018-03-18 19:51:39,114 : DEBUG : main : Node : X-Partitioner : 3:44 : clean output ports.
+2018-03-18 19:51:39,124 : DEBUG : main : WorkflowFileStoreHandlerRepository : X-Partitioner : 3:38 : Removing handler e763ecf6-a91c-4002-9a9e-de384e18e85d (X-Partitioner 3:38: C:\Users\Finley\AppData\Local\Temp\knime_Task_21887\knime_fs-XPartitioner_3_38-1891) - 4 remaining
+2018-03-18 19:51:39,131 : DEBUG : main : WriteFileStoreHandler : X-Partitioner : 3:38 : Disposing file store "e763ecf6-a91c-4002-9a9e-de384e18e85d (X-Partitioner 3:38: C:\Users\Finley\AppData\Local\Temp\knime_Task_21887\knime_fs-XPartitioner_3_38-1891)" - folder successfully deleted
+2018-03-18 19:51:39,137 : DEBUG : main : XValidatePartitionModel : X-Partitioner : 3:38 : Removing all (0) views from model.
+2018-03-18 19:51:39,141 : DEBUG : main : Node : X-Partitioner : 3:38 : clean output ports.
+2018-03-18 19:51:39,146 : DEBUG : main : WorkflowFileStoreHandlerRepository : Number To String : 3:41 : Removing handler 6c5a6dfa-f1df-40d6-b7c9-d91c02268238 (Number To String 3:41: <no directory>) - 3 remaining
+2018-03-18 19:51:39,150 : DEBUG : main : NumberToStringNodeModel : Number To String : 3:41 : Removing all (0) views from model.
+2018-03-18 19:51:39,156 : DEBUG : main : Node : Number To String : 3:41 : clean output ports.
+2018-03-18 19:51:39,161 : DEBUG : main : WorkflowFileStoreHandlerRepository : Number To String : 3:37 : Removing handler 4e411b41-8624-4c6e-b430-d0ae5f4a148e (Number To String 3:37: <no directory>) - 2 remaining
+2018-03-18 19:51:39,165 : DEBUG : main : NumberToStringNodeModel : Number To String : 3:37 : Removing all (0) views from model.
+2018-03-18 19:51:39,170 : DEBUG : main : Node : Number To String : 3:37 : clean output ports.
+2018-03-18 19:51:39,174 : DEBUG : main : WorkflowFileStoreHandlerRepository : File Reader : 3:45 : Removing handler a8f4ec98-3fd8-4a06-b4e6-9e367816e76a (File Reader 3:45: <no directory>) - 1 remaining
+2018-03-18 19:51:39,178 : DEBUG : main : FileReaderNodeModel : File Reader : 3:45 : Removing all (0) views from model.
+2018-03-18 19:51:39,182 : DEBUG : main : Node : File Reader : 3:45 : clean output ports.
+2018-03-18 19:51:39,189 : DEBUG : main : WorkflowFileStoreHandlerRepository : File Reader : 3:5 : Removing handler 5673e043-a2d3-4048-a860-737e93d4250e (File Reader 3:5: <no directory>) - 0 remaining
+2018-03-18 19:51:39,193 : DEBUG : main : FileReaderNodeModel : File Reader : 3:5 : Removing all (0) views from model.
+2018-03-18 19:51:39,197 : DEBUG : main : Node : File Reader : 3:5 : clean output ports.
+2018-03-18 19:51:39,203 : DEBUG : main : WorkflowManager : Task-2 : 3 : Project "Task-2 3" removed (1 remaining)
