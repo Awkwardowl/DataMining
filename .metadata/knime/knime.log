@@ -19361,3 +19361,78 @@ java.lang.NullPointerException
 2018-03-18 18:51:19,106 : DEBUG : ModalContext : FileSingleNodeContainerPersistor :  :  : Created node directory "C:\Users\Finley\knime-workspace\Task-2\Gradient Boosted Trees Predictor (#47)"
 2018-03-18 18:51:19,134 : DEBUG : ModalContext : FileSingleNodeContainerPersistor :  :  : Created node directory "C:\Users\Finley\knime-workspace\Task-2\Gradient Boosted Trees Learner (#48)"
 2018-03-18 18:51:19,185 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/Task-2"
+2018-03-18 19:31:53,763 : DEBUG : main : NodeContainerEditPart :  :  : Color Manager 4:33 (EXECUTED)
+2018-03-18 19:32:07,299 : DEBUG : main : NodeContainer :  :  : Setting dirty flag on Task-2 3
+2018-03-18 19:32:07,331 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=ANNOTATION_ADDED;node=null;old=null;new=Double-click top left corner to edit.;timestamp=18-Mar-2018 19:32:07]
+2018-03-18 19:32:07,332 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_9127086322882704252.bin.gz"
+2018-03-18 19:32:07,336 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=WORKFLOW_DIRTY;node=3;old=null;new=null;timestamp=18-Mar-2018 19:32:07]
+2018-03-18 19:32:07,348 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_8853904470198448607.bin.gz"
+2018-03-18 19:32:07,356 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_3365888986467657662.bin.gz"
+2018-03-18 19:32:07,357 : DEBUG : main : WorkflowRootEditPart :  :  : part: AnnotationEditPart( Double-click top left corner to edit. )
+2018-03-18 19:32:07,364 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_2068834490363830721.bin.gz"
+2018-03-18 19:32:07,372 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_6120444848216656597.bin.gz"
+2018-03-18 19:32:07,382 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_8506355013194388573.bin.gz"
+2018-03-18 19:32:07,387 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_6905324689792052341.bin.gz"
+2018-03-18 19:32:07,394 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_4191895372498572031.bin.gz"
+2018-03-18 19:32:07,398 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_3639284308476759206.bin.gz"
+2018-03-18 19:32:07,402 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_888170098103799612.bin.gz"
+2018-03-18 19:32:07,412 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_6427028742280642879.bin.gz"
+2018-03-18 19:32:07,418 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_1119915324125979219.bin.gz"
+2018-03-18 19:32:07,423 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_3229048213099250313.bin.gz"
+2018-03-18 19:32:07,429 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_5120096325215043627.bin.gz"
+2018-03-18 19:32:07,433 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_7613675875299304543.bin.gz"
+2018-03-18 19:32:07,437 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_1048319735644002213.bin.gz"
+2018-03-18 19:32:07,441 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_5468078835182227846.bin.gz"
+2018-03-18 19:32:07,447 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_6438096920352883454.bin.gz"
+2018-03-18 19:32:07,451 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_8811323657338168286.bin.gz"
+2018-03-18 19:32:07,455 : DEBUG : KNIME-Temp-File-Deleter : Buffer :  :  : Deleted temporary file "C:\Users\Finley\AppData\Local\Temp\knime_container_20180318_752843927290723265.bin.gz"
+2018-03-18 19:32:19,825 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:32:19,837 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:32:19,841 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:32:19,890 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:32:20,065 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:32:20,097 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:32:20,155 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:32:20,226 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:32:28,026 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:32:28,032 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:32:28,036 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:32:28,041 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:32:28,045 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:32:28,051 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:32:28,056 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:32:43,289 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:32:43,295 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:32:43,307 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:32:43,313 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:32:43,321 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:32:43,342 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:32:43,370 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:32:43,377 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:32:43,398 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:32:43,481 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:32:43,770 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:32:43,799 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:32:43,830 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:32:43,838 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:32:43,845 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:32:43,854 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:32:43,861 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:32:46,338 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=ANNOTATION_ADDED;node=null;old=null;new=Gradient Boosted Tree;timestamp=18-Mar-2018 19:32:46]
+2018-03-18 19:32:46,358 : DEBUG : main : WorkflowRootEditPart :  :  : part: AnnotationEditPart( Gradient Boosted Tree )
+2018-03-18 19:33:04,553 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:33:04,569 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:33:04,579 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:33:04,603 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:33:04,644 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:33:04,693 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:33:04,809 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:33:04,925 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:33:08,361 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 3:45 (EXECUTED)
+2018-03-18 19:33:08,370 : DEBUG : main : NodeContainerEditPart :  :  : Number To String 3:41 (EXECUTED)
+2018-03-18 19:33:08,378 : DEBUG : main : NodeContainerEditPart :  :  : Scorer 3:40 (EXECUTED)
+2018-03-18 19:33:08,387 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Learner 3:48 (EXECUTED)
+2018-03-18 19:33:08,395 : DEBUG : main : NodeContainerEditPart :  :  : X-Partitioner 3:44 (EXECUTED)
+2018-03-18 19:33:08,402 : DEBUG : main : NodeContainerEditPart :  :  : Gradient Boosted Trees Predictor 3:47 (EXECUTED)
+2018-03-18 19:33:08,411 : DEBUG : main : NodeContainerEditPart :  :  : X-Aggregator 3:46 (EXECUTED)
+2018-03-18 19:33:22,256 : DEBUG : main : WorkflowEditor :  :  : Saving workflow Task-2 3
