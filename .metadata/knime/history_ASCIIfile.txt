@@ -1,2 +1,4 @@
-knime://LOCAL/wine.csv
+knime://LOCAL/test1K.csv
+knime://LOCAL/training100Ku.csv
 knime://knime.workflow/data.all
+knime://LOCAL/wine.csv
