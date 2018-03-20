@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task-3/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task-3/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task3V2/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task3V2/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task-2/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task-2/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task-1.1/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task-1.1/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task-1.2/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task-1.2/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task2/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task2/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Task1.1/workflow.knime&quot;>&#xD;&#xA;&lt;persistable uri=&quot;knime://LOCAL/Task1.1/workflow.knime&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_vCt7UCq6EeiS9d4Mh_QzPQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_vRW0Qiq6EeiS9d4Mh_QzPQ" x="960" y="0" width="960" height="1040">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_vCt7UCq6EeiS9d4Mh_QzPQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_vRW0Qiq6EeiS9d4Mh_QzPQ" x="640" y="-19" width="960" height="1040">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -43,10 +43,10 @@
             <children xsi:type="basic:PartSashContainer" xmi:id="_8HnR8CufEeinQ_swarsRSA" containerData="9000" selectedElement="_HmFNcCutEeinQ_swarsRSA" horizontal="true">
               <children xsi:type="basic:PartSashContainer" xmi:id="_8yQxcCufEeinQ_swarsRSA" containerData="2481" selectedElement="_vcjXqCq6EeiS9d4Mh_QzPQ">
                 <children xsi:type="basic:PartSashContainer" xmi:id="_MJb6UCuhEeinQ_swarsRSA" containerData="5000" selectedElement="_vcjXoyq6EeiS9d4Mh_QzPQ">
-                  <children xsi:type="basic:PartStack" xmi:id="_vcjXoyq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.explorer.viewMStack" containerData="5000" selectedElement="_vcjXpCq6EeiS9d4Mh_QzPQ">
+                  <children xsi:type="basic:PartStack" xmi:id="_vcjXoyq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.explorer.viewMStack" containerData="5494" selectedElement="_vcjXpCq6EeiS9d4Mh_QzPQ">
                     <children xsi:type="advanced:Placeholder" xmi:id="_vcjXpCq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.explorer.view" ref="_vcd4ECq6EeiS9d4Mh_QzPQ"/>
                   </children>
-                  <children xsi:type="basic:PartStack" xmi:id="_vcjXpiq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.workflowcoach.viewMStack" containerData="5000" selectedElement="_vcjXpyq6EeiS9d4Mh_QzPQ">
+                  <children xsi:type="basic:PartStack" xmi:id="_vcjXpiq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.workflowcoach.viewMStack" containerData="4506" selectedElement="_vcjXpyq6EeiS9d4Mh_QzPQ">
                     <children xsi:type="advanced:Placeholder" xmi:id="_vcjXpyq6EeiS9d4Mh_QzPQ" elementId="org.knime.workbench.workflowcoach.view" ref="_vciwkCq6EeiS9d4Mh_QzPQ"/>
                   </children>
                 </children>
@@ -103,14 +103,13 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_16JckCu_EeiGtJez8U5Nlw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="0: Task3V2" iconURI="platform:/plugin/org.knime.workbench.editor/icons/knime.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; partName=&quot;0: Task3V2&quot; title=&quot;0: Task3V2&quot; tooltip=&quot;0: Task3V2&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;knime://LOCAL/Task3V2/workflow.knime&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.knime.workbench.editor.WorkflowEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
           <tags>activeOnClose</tags>
+          <tags>active</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_284E4Cu_EeiGtJez8U5Nlw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="3: Task-3" iconURI="platform:/plugin/org.knime.workbench.editor/icons/knime.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; partName=&quot;3: Task-3&quot; title=&quot;3: Task-3&quot; tooltip=&quot;3: Task-3&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;knime://LOCAL/Task-3/workflow.knime&quot;/>&#xD;&#xA;&lt;/editor>"/>
