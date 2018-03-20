@@ -36,31 +36,31 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Accuracy"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.2434886977395479"/>
+<entry key="value" type="xdouble" value="0.59575"/>
 </config>
 <config key="Variable_6">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Error"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.756511302260452"/>
+<entry key="value" type="xdouble" value="0.40425"/>
 </config>
 <config key="Variable_7">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="#Correct"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="24344"/>
+<entry key="value" type="xint" value="2383"/>
 </config>
 <config key="Variable_8">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="#False"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="75636"/>
+<entry key="value" type="xint" value="1617"/>
 </config>
 <config key="Variable_9">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Cohen's kappa"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.00743992942019088"/>
+<entry key="value" type="xdouble" value="0.1915509322912656"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -108,6 +108,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="eb8e386b-b87b-4ae2-adbe-8839432b7714"/>
+<entry key="file_store_id" type="xstring" value="5b1299dd-c0d8-4045-a454-e8532fbd05f9"/>
 </config>
 </config>
