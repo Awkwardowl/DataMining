@@ -134,9 +134,9 @@
             },
             {
                 "id":"org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory#Scorer",
-                "nrexecs":73,
+                "nrexecs":74,
                 "nrfails":10,
-                "exectime":391404,
+                "exectime":391495,
                 "nrcreated":6,
                 "successor":"n/a"
             },
@@ -153,7 +153,7 @@
                 "nrexecs":22,
                 "nrfails":0,
                 "exectime":640,
-                "nrcreated":2,
+                "nrcreated":3,
                 "successor":"org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory#Random Forest Predictor"
             },
             {
@@ -166,9 +166,9 @@
             },
             {
                 "id":"org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.classification.GradientBoostingClassificationPredictorNodeFactory#Gradient Boosted Trees Predictor",
-                "nrexecs":55,
+                "nrexecs":56,
                 "nrfails":0,
-                "exectime":55110,
+                "exectime":55569,
                 "nrcreated":8,
                 "successor":"org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory#Scorer"
             },
@@ -374,11 +374,11 @@
         "wrappedNodes":{
         }
     },
-    "uptime":5334765,
-    "workflowsOpened":32,
+    "uptime":5051316,
+    "workflowsOpened":38,
     "remoteWorkflowsOpened":0,
-    "launches":10,
-    "timeSinceLastStart":1960669,
+    "launches":11,
+    "timeSinceLastStart":2216834,
     "crashes":0,
-    "properlyShutDown":true
+    "properlyShutDown":false
 }
