@@ -1517,3 +1517,19 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2018-03-21 19:32:44.406
 !MESSAGE The project description file (.project) for 'Task3V3' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2018-03-21 22:54:32.446 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 2 0 2018-03-21 22:54:50.669
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-03-21 22:54:50.669
+!MESSAGE Cannot bind to an undefined command: plug-in='org.knime.workbench.editor', id='knime.commands.editor.gridSettings'
+
+!ENTRY org.eclipse.core.resources 2 2 2018-03-21 23:10:46.783
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2018-03-21 23:10:46.783
+!MESSAGE The project description file (.project) for 'Task3V3 59.1' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
