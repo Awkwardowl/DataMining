@@ -26,7 +26,7 @@
                 "nrfails":0,
                 "exectime":40330,
                 "nrcreated":0,
-                "successor":"org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory#Normalizer"
+                "successor":"org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory#Normalizer (Apply)"
             },
             {
                 "id":"org.knime.js.base.node.viz.plotter.scatterSelectionAppender.ScatterPlotNodeFactory#Scatter Plot (JavaScript)",
@@ -38,9 +38,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
-                "nrexecs":159,
+                "nrexecs":194,
                 "nrfails":0,
-                "exectime":69839,
+                "exectime":89634,
                 "nrcreated":15,
                 "successor":"org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory#Statistics"
             },
@@ -86,9 +86,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
-                "nrexecs":49,
+                "nrexecs":50,
                 "nrfails":1,
-                "exectime":41631,
+                "exectime":45565,
                 "nrcreated":3,
                 "successor":"org.knime.js.base.node.viz.plotter.scatterSelectionAppender.ScatterPlotNodeFactory#Scatter Plot (JavaScript)"
             },
@@ -98,7 +98,7 @@
                 "nrfails":0,
                 "exectime":35623,
                 "nrcreated":5,
-                "successor":"NodeContainer"
+                "successor":"org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory#Normalizer (Apply)"
             },
             {
                 "id":"org.knime.base.node.preproc.colconvert.numbertostring.NumberToStringNodeFactory#Number To String",
@@ -118,33 +118,33 @@
             },
             {
                 "id":"org.knime.base.node.mine.treeensemble2.node.randomforest.learner.classification.RandomForestClassificationLearnerNodeFactory#Random Forest Learner",
-                "nrexecs":46,
+                "nrexecs":51,
                 "nrfails":3,
-                "exectime":570238,
+                "exectime":642053,
                 "nrcreated":5,
                 "successor":"org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory#Random Forest Predictor"
             },
             {
                 "id":"org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory#Random Forest Predictor",
-                "nrexecs":60,
+                "nrexecs":71,
                 "nrfails":0,
-                "exectime":108244,
+                "exectime":127141,
                 "nrcreated":6,
                 "successor":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter"
             },
             {
                 "id":"org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory#Scorer",
-                "nrexecs":79,
+                "nrexecs":85,
                 "nrfails":10,
-                "exectime":391880,
+                "exectime":392503,
                 "nrcreated":6,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.base.node.preproc.partition.PartitionNodeFactory#Partitioning",
-                "nrexecs":102,
+                "nrexecs":103,
                 "nrfails":0,
-                "exectime":348708,
+                "exectime":349457,
                 "nrcreated":2,
                 "successor":"NodeContainer"
             },
@@ -246,33 +246,33 @@
             },
             {
                 "id":"org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory#Equal Size Sampling",
-                "nrexecs":52,
+                "nrexecs":53,
                 "nrfails":0,
-                "exectime":63351,
+                "exectime":64848,
                 "nrcreated":9,
                 "successor":"NodeContainer"
             },
             {
                 "id":"org.knime.base.node.mine.treeensemble2.node.gradientboosting.learner.regression.GradientBoostingRegressionLearnerNodeFactory#Gradient Boosted Trees Learner (Regression)",
-                "nrexecs":76,
+                "nrexecs":90,
                 "nrfails":1,
-                "exectime":1119657,
+                "exectime":1445963,
                 "nrcreated":3,
                 "successor":"org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.regression.GradientBoostingPredictorNodeFactory#Gradient Boosted Trees Predictor (Regression)"
             },
             {
                 "id":"org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.regression.GradientBoostingPredictorNodeFactory#Gradient Boosted Trees Predictor (Regression)",
-                "nrexecs":146,
+                "nrexecs":174,
                 "nrfails":0,
-                "exectime":183791,
+                "exectime":208527,
                 "nrcreated":2,
                 "successor":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter"
             },
             {
                 "id":"org.knime.base.node.preproc.rename.RenameNodeFactory#Column Rename",
-                "nrexecs":23,
+                "nrexecs":28,
                 "nrfails":0,
-                "exectime":2674,
+                "exectime":3152,
                 "nrcreated":9,
                 "successor":"org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory#Statistics"
             },
@@ -294,17 +294,17 @@
             },
             {
                 "id":"org.knime.base.node.preproc.columnappend.ColumnAppenderNodeFactory#Column Appender",
-                "nrexecs":145,
+                "nrexecs":173,
                 "nrfails":4,
-                "exectime":38109,
+                "exectime":45310,
                 "nrcreated":2,
                 "successor":"org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.classification.GradientBoostingClassificationPredictorNodeFactory#Gradient Boosted Trees Predictor"
             },
             {
                 "id":"org.knime.base.node.preproc.columnresorter.ColumnResorterNodeFactory#Column Resorter",
-                "nrexecs":7,
+                "nrexecs":9,
                 "nrfails":0,
-                "exectime":167,
+                "exectime":283,
                 "nrcreated":2,
                 "successor":"n/a"
             },
@@ -326,9 +326,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.valcount.ValueCounterNodeFactory#Value Counter",
-                "nrexecs":11,
+                "nrexecs":16,
                 "nrfails":0,
-                "exectime":1690,
+                "exectime":1936,
                 "nrcreated":1,
                 "successor":"n/a"
             },
@@ -350,18 +350,18 @@
             },
             {
                 "id":"org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory#Statistics",
-                "nrexecs":3,
+                "nrexecs":4,
                 "nrfails":0,
-                "exectime":8209,
+                "exectime":14688,
                 "nrcreated":1,
                 "successor":"n/a"
             },
             {
                 "id":"org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory#Normalizer (Apply)",
-                "nrexecs":1,
+                "nrexecs":2,
                 "nrfails":0,
-                "exectime":96,
-                "nrcreated":3,
+                "exectime":145,
+                "nrcreated":4,
                 "successor":"n/a"
             }
         ],
@@ -374,11 +374,11 @@
         "wrappedNodes":{
         }
     },
-    "uptime":4998379,
-    "workflowsOpened":47,
+    "uptime":5224248,
+    "workflowsOpened":51,
     "remoteWorkflowsOpened":0,
     "launches":12,
-    "timeSinceLastStart":1983036,
+    "timeSinceLastStart":4693458,
     "crashes":0,
-    "properlyShutDown":false
+    "properlyShutDown":true
 }
