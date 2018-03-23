@@ -30,7 +30,7 @@
 <entry key="enableSelection" type="xboolean" value="true"/>
 <entry key="enableRectangleSelection" type="xboolean" value="true"/>
 <entry key="enableLassoSelection" type="xboolean" value="false"/>
-<entry key="chartTitle" type="xstring" value="Cluster_1 by Class"/>
+<entry key="chartTitle" type="xstring" value="Task1.1 Plot 3b: Cluster_1 by Class"/>
 <entry key="chartSubtitle" type="xstring" value=""/>
 <entry key="xCol" type="xstring" value="PCA dimension 0"/>
 <entry key="yCol" type="xstring" value="PCA dimension 1"/>
@@ -134,6 +134,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ddf6ba6a-860e-4227-b872-f17200c14bd6"/>
+<entry key="file_store_id" type="xstring" value="04db19f7-a83c-4b64-8dd7-bb0178e975ec"/>
 </config>
 </config>
